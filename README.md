@@ -2,7 +2,9 @@
 
 Java SE: Web Project skeleton
 
-# Install
-
-Import this project to IntelliJ as a Maven project.
-IntelliJ can auto-install the dependencies based on the pom.xml
+## Features
+- Register / Login
+- Sort by product category and supplier
+- Add product to cart
+- Update cart quantity
+- Simulate a checkout process
