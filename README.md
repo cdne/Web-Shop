@@ -1,7 +1,7 @@
 # Codecool Online Shop
-Webshop is written in Java that allows users to add products to cart from different categories and suppliers.
+Webshop written in Java that allows users to add products to cart from different categories and suppliers.
 
-Users can register and login and see previous orders. Also, they will receive a mail confirmation when they pay.
+Users can register and login and see previous orders. Also, they will receive an email confirmation when they pay.
 
 ## Features
 - Register / Login
